@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Tektur';
+    src: url('../fonts/Tektur-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Tektur';
+    src: url('../fonts/Tektur-Medium.ttf');
+    font-weight: medium;
+}
+
+html,
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Tektur', sans-serif;
+}
+
+h3 {
+    font-weight: medium;
+}
+
+.rounded {
+    border-radius: 4px;
+}
