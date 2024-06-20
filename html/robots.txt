@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /css/bootstrap.min.css.map
+Disallow: /js/bootstrap.min.js.map
+
+Sitemap: https://itsanon.xyz/sitemap.xml
